@@ -6,7 +6,7 @@
 yay -S hyprland kitty sddm swaync xdg-desktop-portal-hyprland qt6-wayland \
  qt5-wayland hyprpolkitagent hyprpaper hypridle hyprlock hyprcursor \
  hyprutils hyprland-qtutils waybar xorg-xwayland rofi copyq clipse \
- nemo stow zsh
+ nemo stow zsh brave-bin gnome-keyring
 ```
 
 ## Enable Display Manager
