@@ -132,4 +132,10 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 
 # install snapshot manager
 yay -S timeshift-autosnap
+
+# enable snapshot boot entries
+sudo systemctl edit --full grub-btrfsd
+-- 
+ExecStart=/usr/bin/grub-btrfsd --syslog --timeshift-auto
+--
 ```
