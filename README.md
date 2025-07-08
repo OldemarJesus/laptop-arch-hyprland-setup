@@ -6,3 +6,4 @@ installation.
 Next:
 - [ARCH INSTALLATION](./ARCH-INSTALLATION.md)
 - [HYPRLAND INSTALLATION](./HYPRLAND-INSTALLATION.md)
+- [DOTFILES](https://github.com/OldemarJesus/.dotfiles.git)
