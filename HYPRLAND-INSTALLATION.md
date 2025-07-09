@@ -7,7 +7,7 @@ yay -S hyprland kitty sddm swaync xdg-desktop-portal-hyprland qt6-wayland \
  qt5-wayland hyprpolkitagent hyprpaper hypridle hyprlock hyprcursor \
  hyprutils hyprland-qtutils waybar xorg-xwayland rofi copyq clipse \
  nemo stow zsh brave-bin gnome-keyring ttf-jetbrains-mono-nerd \
- hyprpicker otf-codenewroman-nerd pywal blueman bluez
+ hyprpicker otf-codenewroman-nerd pywal blueman bluez pacman-contrib
 ```
 
 ## Enable Display Manager
