@@ -8,14 +8,21 @@ yay -S hyprland kitty sddm swaync xdg-desktop-portal-hyprland qt6-wayland \
  hyprutils hyprland-qtutils waybar xorg-xwayland rofi copyq clipse \
  nemo stow zsh brave-bin gnome-keyring ttf-jetbrains-mono-nerd \
  hyprpicker otf-codenewroman-nerd pywal blueman bluez pacman-contrib \
- pavucontroll dos2unix
+ pavucontroll dos2unix brightnessctl
+```
+
+## Optional Packages
+
+```sh
+yay -S teamviewer
 ```
 
 ### Neovim Packages
 
 ```sh
 yay -S ripgrep neovim-ruby-host perl python3 nodejs ripgrep \
- yarn ruby cpanminus python-pip
+ yarn ruby cpanminus python-pip dotnet-runtime dotnet-sdk \
+ npm
 ```
 
 ## Enable Display Manager
