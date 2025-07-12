@@ -8,7 +8,7 @@ yay -S hyprland kitty sddm swaync xdg-desktop-portal-hyprland qt6-wayland \
  hyprutils hyprland-qtutils waybar xorg-xwayland rofi copyq clipse \
  nemo stow zsh brave-bin gnome-keyring ttf-jetbrains-mono-nerd \
  hyprpicker otf-codenewroman-nerd pywal blueman bluez pacman-contrib \
- pavucontroll dos2unix brightnessctl
+ pavucontroll dos2unix brightnessctl hyprsunset
 ```
 
 ## Optional Packages
